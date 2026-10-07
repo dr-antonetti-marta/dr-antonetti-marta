@@ -15,7 +15,7 @@ I use survey experiments and causal inference to study the mechanisms behind hum
 **Tools:** R · Python · Git
 
 ### 📄 Research
-Publications, working papers and current projects: *website coming soon* · *Google Scholar link to add*
+Working papers and current projects: *website coming soon*
 
 ### 📚 Free teaching material
 - Introductory **R**, **Python** and **maths** bootcamps for social scientists *(coming soon)*
