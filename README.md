@@ -19,5 +19,6 @@ Working papers and current projects: *website coming soon*
 
 ### 📚 Free teaching material
 - [**R bootcamp**](https://github.com/dr-antonetti-marta/r-bootcamp): a four-session introduction to R for social scientists
-- **Python** and **maths** bootcamps for social scientists *(coming soon)*
+- [**Python bootcamp**](https://github.com/dr-antonetti-marta/python-bootcamp): the same course in Python, with an R → Python cheat sheet
+- **Maths** bootcamp for social scientists *(coming soon)*
 - **GV249 Research Design in Political Science (LSE):** lecture and seminar slides I redesigned from scratch *(coming soon)*
