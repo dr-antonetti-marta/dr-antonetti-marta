@@ -15,7 +15,7 @@ I use survey experiments and causal inference to study the mechanisms behind hum
 **Tools:** R · Python · Git
 
 ### 📄 Research
-Working papers and current projects: *website coming soon*
+Working papers, current projects and CV on my website: **[dr-antonetti-marta.github.io](https://dr-antonetti-marta.github.io)**
 
 ### 📚 Free teaching material
 - [**R bootcamp**](https://github.com/dr-antonetti-marta/r-bootcamp): a four-session introduction to R for social scientists
